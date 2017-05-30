@@ -1,6 +1,3 @@
-
-
-
 FROM kmubigdata/ubuntu-1604
 
 MAINTAINER kmubigdata <bigdata.cs.kookmin.ac.kr>
